@@ -29,6 +29,11 @@
 # <center>Hello-Goose (WEB-PR) 🪿</center>
 
 
+
+**Hello-Goose** is a promotional website project for the **HelloWorld** camp by the School of Information Technology (SIT), King Mongkut's University of Technology Thonburi (KMUTT).
+
+This activity is organized to allow students to learn about various roles from their seniors and collaborate on creating projects to showcase their learning outcomes.
+
 This website provides a minimal setup to get React working in Vite with Hot Module Replacement (HMR) and some ESLint rules , React + TypeScript + Vite Template.
 ##<center> Contributors</center>
 
@@ -50,10 +55,20 @@ A big thanks to the contributors who helped make this website better:
    
 
 Feel free to check out their profiles
+
 ### Running with yarn
 yarn install
 yarn dev
 
+## Feature Demos
 
-
-
+| | |
+|:---:|:---:|
+| **Hero Banner** | **Navigation** |
+| ![Hero Banner](public/demos/hero_banner.webp) | ![Navigation](public/demos/navigation.webp) |
+| **About Section** | **Events Section** |
+| ![About Section](public/demos/about_section.webp) | ![Events Section](public/demos/events_section.webp) |
+| **FAQs Section** | **Game Section** |
+| ![FAQs Section](public/demos/faqs_section.webp) | ![Game Section](public/demos/game_section.webp) |
+| **Team Section** | **Social Section** |
+| ![Team Section](public/demos/team_section.webp) | ![Social Section](public/demos/social_section.webp) |
